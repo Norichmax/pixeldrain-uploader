@@ -18,11 +18,9 @@
 
 1. Clone the project: `git clone https://github.com/username/project-name.git`
 
-2. Set up your API key: Enter your API key in the `index.php` file.
+2. Upload files: Choose local files or provide remote URLs to upload your files.
 
-3. Upload files: Choose local files or provide remote URLs to upload your files.
-
-4. Share files: Obtain unique links for your uploaded files and easily share them.
+3. Share files: Obtain unique links for your uploaded files and easily share them.
 
 ## Requirements
 
