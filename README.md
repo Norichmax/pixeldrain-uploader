@@ -16,7 +16,7 @@
 
 ## How to Use?
 
-1. Clone the project: `git clone https://github.com/username/project-name.git`
+1. Clone the project: `git clone https://github.com/seferilgun/pixeldrain-uploader.git`
 
 2. Upload files: Choose local files or provide remote URLs to upload your files.
 
