@@ -47,6 +47,8 @@
             $response = curl_exec($ch);
             curl_close($ch);
 
+            $api_key = 71f79cec-b86c-4699-bd20-8b4bae58e9ed
+
             $api_response = json_decode($response, true);
 
             if ($api_response && isset($api_response['id'])) {
